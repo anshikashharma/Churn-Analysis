@@ -24,4 +24,7 @@ To detect high-risk customers and understand churn patterns for better retention
 ---
 
 ## 📊 Dashboard Preview  
-Interactive dashboards were built to visualize churn trends and identify high-risk customers using both historical and predictive analysis views.
+<img width="1411" height="780" alt="image" src="https://github.com/user-attachments/assets/111a3a26-9749-4b60-9e7f-30a140322924" />
+
+<img width="1288" height="725" alt="image" src="https://github.com/user-attachments/assets/17092e18-6793-45a1-b987-41aa9be7a0a5" />
+
